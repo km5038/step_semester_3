@@ -1,5 +1,49 @@
 # step\_semester\_3
 
+
+
+\## Date: 28-08-2026
+
+
+
+\### Today's Work
+
+\- Completed Session 1 Java practice problems.
+
+\- Worked on Armstrong Number, GCD, Palindrome, Prime Number, and Star Pattern programs.
+
+\- Practiced control flow concepts such as if-else statements and loops.
+
+\- Completed the Session 1 assignment problems.
+
+\- Pushed the Session 1 work to the feature/session\_1 branch.
+
+
+
+\### Next Session Plan
+
+\- Start working on Session 2 problems.
+
+\- Practice Java String methods and string manipulation.
+
+\- Improve understanding of loops and problem-solving.
+
+
+
+\### Issues Faced
+
+\- Had some difficulty understanding the logic for certain number-based problems.
+
+\- Needed more practice with loops and conditions.
+
+\- Faced some confusion while organizing and pushing files using Git branches.
+
+
+
+\---
+
+
+
 \## Date: 04-09-2026
 
 
