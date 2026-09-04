@@ -80,3 +80,41 @@
 
 \---
 
+
+
+\## Date: 04-09-2026
+
+
+
+\### Today's Work
+
+\- Completed Session 4 practice problems based on arrays.
+
+\- Solved problems including Two Sum, Best Time to Buy and Sell Stock, Contains Duplicate, Merge Sorted Arrays, and Rotate Array.
+
+\- Completed Session 4 assignment problems.
+
+\- Practiced array manipulation, nested loops, two pointers, HashMap, and binary search.
+
+\- Pushed the Session 4 work to the feature/session\_4 branch.
+
+
+
+\### Next Session Plan
+
+\- Start the next session's problems.
+
+\- Practice more data structures and problem-solving techniques.
+
+
+
+\### Issues Faced
+
+\- Had some difficulty organizing files and keeping each session branch clean.
+
+\- Needed extra practice understanding some array problem-solving approaches.
+
+
+
+\---
+
