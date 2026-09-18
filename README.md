@@ -118,3 +118,37 @@
 
 \---
 
+## Date: 19-09-2026
+
+
+
+\*\*Today's Work:\*\*
+
+\- Completed Week 6 Classes and Objects problems.
+
+\- Practiced classes and objects, constructors, constructor overloading, constructor chaining using `this()`, encapsulation, object references, and `static` members.
+
+\- Completed class/practice problems and assignment problems.
+
+\- Pushed the Week 6 work to the `feature/session\_6` branch.
+
+
+
+\*\*Next Session Plan:\*\*
+
+\- Continue with the next session's Java problems and concepts.
+
+\- Practice and improve OOP concepts through coding exercises.
+
+
+
+\*\*Issues Faced:\*\*
+
+\- Faced some Git branch and repository structure issues while pushing the Week 6 work.
+
+\- Resolved the issues and successfully pushed the Week 6 folders.
+
+
+
+\---
+
